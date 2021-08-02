@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenderApp", "TenderApp\TenderApp.csproj", "{E1A0B214-7A7F-4EF3-A6EE-A5207B85BBB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{9287F7CE-7FA2-4823-BD4B-47AB5727FDA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessAccessLayer", "BusinessAccessLayer\BusinessAccessLayer.csproj", "{DE16E859-F9AF-49BF-A2AF-9F4393442F3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1A0B214-7A7F-4EF3-A6EE-A5207B85BBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A0B214-7A7F-4EF3-A6EE-A5207B85BBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A0B214-7A7F-4EF3-A6EE-A5207B85BBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A0B214-7A7F-4EF3-A6EE-A5207B85BBB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9287F7CE-7FA2-4823-BD4B-47AB5727FDA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9287F7CE-7FA2-4823-BD4B-47AB5727FDA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9287F7CE-7FA2-4823-BD4B-47AB5727FDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9287F7CE-7FA2-4823-BD4B-47AB5727FDA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE16E859-F9AF-49BF-A2AF-9F4393442F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE16E859-F9AF-49BF-A2AF-9F4393442F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE16E859-F9AF-49BF-A2AF-9F4393442F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE16E859-F9AF-49BF-A2AF-9F4393442F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
